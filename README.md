@@ -117,3 +117,8 @@ https://github.com/kchaeys2/umc_I/tree/main/src/main/java/com/umc/i/src/mypage
 
 ## ERD
 ![아이 db drawio](https://github.com/kchaeys2/umc_I/assets/106591445/a6d3efb6-0f75-4bef-90c3-a5e7f02429b2)
+
+## 소프트웨어 아키텍처
+<img width="100%" alt="image" src="https://github.com/kchaeys2/umc_I/assets/106591445/216fe75b-1c45-40a6-b4bb-7cf5ccc58257">
+
+
